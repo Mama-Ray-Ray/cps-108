@@ -5,6 +5,4 @@ Score: 16 / 16 = 100%
 
 =========================== lesson-03.ipynb ===========================
 
-The solution for Exercise 5 does not yet produce the correct output.
-
-Score: 5 / 6 = 83%
+Score: 6 / 6 = 100%
