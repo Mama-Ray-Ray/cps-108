@@ -15,7 +15,6 @@ Score: 5 / 5 = 100%
 
 The solution for Exercise 5 does not yet produce the correct output.
 The solution for Exercise 6 does not yet produce the correct output.
-The solution for Exercise 8 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 9
+The solution for Exercise 9 does not yet produce the correct output.
 
-Score: 5 / 9 = 55%
+Score: 6 / 9 = 66%
