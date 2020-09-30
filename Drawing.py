@@ -5,9 +5,9 @@ c = Canvas(root, width=500, height=500)
 c.pack()
 
 # Put drawing here!
-c.create_rectangle(0, 0, 500, 300, fill='blue')
-c.create_rectangle(0, 300, 500, 500, fill='green')
-c.create_rectangle(150, 300, 300, 400, fill='yellow')
+c.create_rectangle(0, 0, 500, 350, fill='blue')
+c.create_rectangle(0, 350, 500, 500, fill='green')
+c.create_rectangle(150, 300, 300, 400, fill='pink')
 c.create_rectangle(200, 350, 250, 400, fill='red')
 c.create_polygon(100, 300, 225, 200, 350, 300, fill='red')
 c.create_oval(350, 100, 400, 150, fill='white')
