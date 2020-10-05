@@ -4,9 +4,17 @@ root = Tk()
 c = Canvas(root, width=500, height=500)
 c.pack()
 
-# Put drawing here!
 # Checkered Square
-c.create_rectangle(50, 50, 100, 100, fill='black')
+c.create_rectangle(25, 25, 50, 50, fill='black')
+c.create_rectangle(50, 50, 75, 75, fill='black')
+def checker1(x, y, height, width, fill='black'):
+    c.create_rectangle(x,y, x+width, y+height, fill='black')
+def checker1_row(y):
+    for x in range(50, 450+1, 50):
+        checker1(x,y, 25, 25, 'black')
+for y in range(50, 450+1, 50):
+    checker1_row(y)
+def checker2(x, y, height, width, fill='black'):
 
 # Lines
 for y in range(50, 500, 50):
