@@ -27,10 +27,10 @@ Score: 5 / 6 = 83%
 
 =========================== lesson-08.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
+The solution for Exercise 1 does not yet produce the correct output.
 There does not yet seem to be a solution for Exercise 2
 There does not yet seem to be a solution for Exercise 3
 There does not yet seem to be a solution for Exercise 4
-There does not yet seem to be a solution for Exercise 5
+The solution for Exercise 5 does not yet produce the correct output.
 
 Score: 0 / 5 = 0%
