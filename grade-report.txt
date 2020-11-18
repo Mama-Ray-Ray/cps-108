@@ -44,7 +44,7 @@ Score: 4 / 5 = 80%
 
 =========================== lesson-11.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
+The solution for Exercise 1 does not yet produce the correct output.
 There does not yet seem to be a solution for Exercise 2
 There does not yet seem to be a solution for Exercise 3
 
@@ -52,7 +52,7 @@ Score: 0 / 3 = 0%
 
 =========================== lesson-12.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
+The solution for Exercise 1 does not yet produce the correct output.
 There does not yet seem to be a solution for Exercise 2
 There does not yet seem to be a solution for Exercise 3
 There does not yet seem to be a solution for Exercise 4
