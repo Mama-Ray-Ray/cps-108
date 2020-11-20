@@ -1,7 +1,11 @@
 # Put your code here:
-
 def square_wave(n):
-    return [1] * n + [-1] * n
+    samples = []
+    for i in range(n):
+        samples.append(1)
+    for i in range(n):
+        samples.append(-1)
+    return samples
 
 # Keep working until you pass all these tests
 # (run them by pressing F5):

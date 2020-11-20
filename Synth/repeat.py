@@ -1,8 +1,7 @@
 # Put your code here:
-def simple_repear(n):
-    if n
-
-
+def repeat(n):
+    
+    
 # Keep working until you pass all these tests
 # (run them by pressing F5):
 

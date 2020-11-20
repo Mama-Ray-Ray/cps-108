@@ -1,5 +1,6 @@
 # Put your code here:
-
+def gain(n):
+    
 
 
 # Keep working until you pass all these tests
