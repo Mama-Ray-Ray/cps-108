@@ -25,9 +25,7 @@ Score: 6 / 6 = 100%
 
 =========================== lesson-08.ipynb ===========================
 
-The solution for Exercise 5 does not yet produce the correct output.
-
-Score: 4 / 5 = 80%
+Score: 5 / 5 = 100%
 
 =========================== lesson-09.ipynb ===========================
 
@@ -39,19 +37,12 @@ Score: 5 / 5 = 100%
 
 =========================== lesson-11.ipynb ===========================
 
-The solution for Exercise 1 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 2
-There does not yet seem to be a solution for Exercise 3
-
-Score: 0 / 3 = 0%
+Score: 3 / 3 = 100%
 
 =========================== lesson-12.ipynb ===========================
 
-The solution for Exercise 1 does not yet produce the correct output.
-The solution for Exercise 2 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 3
 There does not yet seem to be a solution for Exercise 4
 There does not yet seem to be a solution for Exercise 5
 There does not yet seem to be a solution for Exercise 6
 
-Score: 0 / 6 = 0%
+Score: 3 / 6 = 50%
