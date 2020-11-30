@@ -41,8 +41,7 @@ Score: 3 / 3 = 100%
 
 =========================== lesson-12.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 4
 There does not yet seem to be a solution for Exercise 5
 There does not yet seem to be a solution for Exercise 6
 
-Score: 3 / 6 = 50%
+Score: 4 / 6 = 66%
